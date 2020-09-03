@@ -5,13 +5,11 @@ body {
   font-weight: lighter; }
 
 .container{
-  width:600px;
-  margin:0 auto;
-  border:1px solid green;
+  width:700px;
+  margin: 0 auto;
 }
 .card{
-  margin: 40px auto;\
-  width:500px;
+  margin: 40px auto;
   background-color:white;
   height:auto;
   padding: 40px 20px;
@@ -53,6 +51,7 @@ a.btn-blue{
 
 h2{
   color:#7ECE90;
+  margin-bottom:10px;
 }
 .list-inline{
   list-style: none;
